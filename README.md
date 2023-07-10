@@ -18,6 +18,10 @@ The main steps of the project are as follows:
 
 6. Model Saving: The trained LSTM model is saved to a file named "model.h5" for future use.
 
+
+
+
+
 ## Prerequisites
 
 To run the notebook and reproduce the results, the following dependencies are required:
